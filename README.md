@@ -1,6 +1,7 @@
 # weather_flutter_app
 
 Эммануэль Анинвэзи
+
 Мобильное тестовое задание (Флаттер)
 
 Описание
@@ -22,6 +23,7 @@
                     посетите "https://docs.flutter.dev/get-started/install/windows " для правильного руководства по настройке и запуску приложения flutter.
 
 Emmanuel Aninwezi
+
 Mobile test task (Flutter)
 
 Description
